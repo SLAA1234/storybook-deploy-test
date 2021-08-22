@@ -1,0 +1,21 @@
+.button{
+    border: none;
+    color: white;
+   
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.primary {background-color: blue;}
+.secondary {background-color: gray;}
+.success {background-color: green;}
+.danger {background-color: red;}
+
+.small {
+    font-size: 12px;
+    padding: 5px 16px;
+  }
