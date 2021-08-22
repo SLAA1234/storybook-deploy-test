@@ -24,8 +24,8 @@ const Template = (args) => <Button {...args} />
 
 export const PrimaryA = Template.bind({})
 PrimaryA.args = {
-    variant: 'primary',
-    children: 'Primary Args', 
+    variant: 'danger',
+    children: 'SLAA Primary-Danger Args', 
     disabled:true   
 }
 
