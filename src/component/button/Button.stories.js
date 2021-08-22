@@ -32,7 +32,7 @@ PrimaryA.args = {
 export const SecondaryA = Template.bind({})
 SecondaryA.args = {
     variant: 'secondary',
-    children: 'Lisa Secondary Args',   
+    children: 'Lisa Secondary 3 Args',   
 }
 
 export const CustomButton = Template.bind({})
