@@ -40,7 +40,7 @@ CustomButton.args = {
     ...PrimaryA.args,
     children: 'Lisa Button',
     disabled:false,
-    variant: 'success'
+    variant: 'danger'
   
 }
 
